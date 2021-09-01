@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "digital_ticket",
+    "slug": "digital_ticket",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "digital_ticket"
+}
